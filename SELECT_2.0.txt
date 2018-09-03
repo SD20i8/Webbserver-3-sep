@@ -1,0 +1,10 @@
+1. SELECT stad,invånare FROM städer WHERE landskap='Dalarna';
+2. SELECT stad,invånare FROM städer WHERE invånare>20000;
+3. SELECT stad,invånare FROM städer WHERE invånare<20000 AND invånare>10000;
+4. SELECT stad,invånare FROM städer WHERE postkod LIKE '4%';
+5. SELECT stad,invånare FROM städer WHERE län='Västra Götalands län';
+6. SELECT stad,invånare FROM städer WHERE kommun LIKE 'A%';
+7. SELECT stad,invånare FROM städer WHERE invånare<50000;
+8. SELECT stad,invånare FROM städer WHERE stad LIKE '%e%';
+9. SELECT stad,invånare FROM städer WHERE landskap='Hälsingland' AND invånare>20000;
+10. SELECT stad,invånare FROM städer WHERE kommun LIKE 'B%' AND invånare>25000;
