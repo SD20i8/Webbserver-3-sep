@@ -1,0 +1,7 @@
+1. Select ålder from test2 where förnamn like '%tt%';
+2. Select förnamn from test2 where efternamn is null;
+3. select * from test2 where förnamn like 'K%';
+4. select förnamn from test2 where ålder<13;
+5. select efternamn from test2;
+6. select förnamn,ålder from test2 where efternamn='Anka';
+7. select * from test2 where förnamn like '%u%';
