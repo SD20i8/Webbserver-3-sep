@@ -1,0 +1,10 @@
+Jag vill bara påpeka att det heter postnummer och inte "postkod".
+
+INSERT INTO städer(stad,kommun,landskap,län,postkod,invånare) VALUES  
+("Göteborg","Göteborgs kommun","Västergötland","Västra Götalands län",42400,590000);
+
+INSERT INTO städer(stad,kommun,landskap,län,postkod,invånare) VALUES  
+("Malmö","Malmö kommun","Skåne","Skåne län",21000,312000);
+
+INSERT INTO städer(stad,kommun,landskap,län,postkod,invånare) VALUES  
+("Uddevalla","Uddevalla kommun","Bohuslän","Västra Götalands län",36000);
